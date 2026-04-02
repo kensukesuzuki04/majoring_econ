@@ -160,7 +160,7 @@ fig.update_layout(
     margin=dict(l=230, r=20, t=40, b=60),
     template="plotly_white"
 )
-fig.show()
+fig.show(config={"scrollZoom": False})
 ```
 
 ## Early vs. Mid-Career Wages
@@ -220,7 +220,7 @@ fig.show()
 > The dotted line marks equal early- and mid-career wages. Points above it grow the most — hover to explore!
 :::
 
-## Underemployment Rate by Major
+## Underemployment Rate by Major {.scrollable}
 
 *Underemployment* = working in a job that doesn't require a college degree.
 
@@ -264,7 +264,7 @@ fig.update_layout(
     margin=dict(l=230, r=20, t=40, b=60),
     template="plotly_white"
 )
-fig.show()
+fig.show(config={"scrollZoom": False})
 ```
 
 ## Economics vs. Business Majors

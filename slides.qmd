@@ -423,7 +423,6 @@ Each axis shows Economics' **percentile rank** relative to all majors (higher = 
 - **College pays off** — the wage premium over high school has held for 35+ years
 - **Economics ranks in the top quartile** for both early- and mid-career wages
 - **Low underemployment** — Economics graduates typically work in degree-requiring jobs
-- **Transferable skills** — quantitative reasoning, data analysis, and critical thinking open doors across industries
 - **Graduate school option** — ~40% of Economics grads pursue further education, keeping options open
 :::
 
